@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nasa-assured-counseling-everybody.trycloudflare.com/vnc.html
+URL       : https://champion-ventures-spice-fixes.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-02 09:13:00
+Created   : 2026-09-02 14:01:22
 =======================================================
