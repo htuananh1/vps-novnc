@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://efficiency-april-maine-immediately.trycloudflare.com/vnc.html
+URL       : https://decorative-opens-private-implementing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 08:45:04
+Created   : 2026-09-05 13:08:48
 =======================================================
