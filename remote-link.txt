@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://reason-empirical-promptly-enemies.trycloudflare.com/vnc.html
+URL       : https://contemporary-sox-premier-res.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-11 02:54:23
+Created   : 2026-10-11 11:07:19
 =======================================================
