@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://resist-beside-indirect-inkjet.trycloudflare.com/vnc.html
+URL       : https://mill-governor-unlimited-pdas.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 02:22:06
+Created   : 2026-10-15 09:32:49
 =======================================================
