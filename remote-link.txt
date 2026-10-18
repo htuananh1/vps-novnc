@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fact-projects-carmen-translated.trycloudflare.com/vnc.html
+URL       : https://moon-undefined-prev-prominent.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 09:15:53
+Created   : 2026-10-18 13:42:22
 =======================================================
