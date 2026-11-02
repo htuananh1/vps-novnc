@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fluid-repair-joy-ordinance.trycloudflare.com/vnc.html
+URL       : https://stuff-investment-contests-symbol.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 23:15:56
+Created   : 2026-11-02 03:23:20
 =======================================================
