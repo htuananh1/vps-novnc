@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dicke-examining-engagement-temperature.trycloudflare.com/vnc.html
+URL       : https://jersey-cgi-dress-broadway.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 12:59:31
+Created   : 2026-11-03 04:35:03
 =======================================================
