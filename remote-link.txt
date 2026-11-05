@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://technical-breed-kansas-sir.trycloudflare.com/vnc.html
+URL       : https://attending-mental-occur-determine.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 04:14:31
+Created   : 2026-11-05 12:52:51
 =======================================================
