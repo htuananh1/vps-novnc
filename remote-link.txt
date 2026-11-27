@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sorts-defendant-sporting-outputs.trycloudflare.com/vnc.html
+URL       : https://prospective-oakland-lions-academics.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-27 05:51:30
+Created   : 2026-11-27 19:17:26
 =======================================================
